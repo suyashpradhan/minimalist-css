@@ -1,6 +1,6 @@
 ## A CSS Library called minimalist-css designed and developer by me, give it a try!!!
 
-Library Website Link:[https://www.google.com]
+Library Website Link:[https://minimalist-css.netlify.app/]
 
 ![poster](dist/images/poster.png)
 
@@ -19,8 +19,8 @@ Library Website Link:[https://www.google.com]
 
 ##### If you want to share your feedback then connect with me on following social accounts
 
-1. Linkedin [https://www.linkedin.com/in/suyashpradhan/]
-2. Twitter [https://twitter.com/SuyashPradhan9]
+[Linkedin] (https://www.linkedin.com/in/suyashpradhan/)
+[Twitter] (https://twitter.com/SuyashPradhan9)
 
 
 #THANK YOU!!!
