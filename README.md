@@ -22,6 +22,7 @@ Download Link : [https://gofile.io/d/C4BG0A]
 
 [Linkedin] (https://www.linkedin.com/in/suyashpradhan/)
 [Twitter] (https://twitter.com/SuyashPradhan9)
+[GitHub] (https://github.com/suyashpradhan)
 
 
 #THANK YOU!!!
