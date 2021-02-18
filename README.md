@@ -1,4 +1,4 @@
-## A CSS Library called minimalist-css designed and developer by me, give it a try!!!
+## A CSS Library called minimalist-css designed and developed by me, give it a try!!!
 
 Library Website Link:[https://minimalist-css.netlify.app/]
 Download Link : [https://gofile.io/d/C4BG0A]
@@ -20,9 +20,9 @@ Download Link : [https://gofile.io/d/C4BG0A]
 
 ##### If you want to share your feedback then connect with me on following social accounts
 
-[Linkedin] (https://www.linkedin.com/in/suyashpradhan/)
-[Twitter] (https://twitter.com/SuyashPradhan9)
-[GitHub] (https://github.com/suyashpradhan)
+[Linkedin](https://www.linkedin.com/in/suyashpradhan/)
+[Twitter](https://twitter.com/SuyashPradhan9)
+[GitHub](https://github.com/suyashpradhan)
 
 
 #THANK YOU!!!
